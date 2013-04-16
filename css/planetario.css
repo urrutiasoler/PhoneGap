@@ -1,0 +1,138 @@
+.welcome {
+ 	background-image: url('../img/welcome_fondo.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 640px;
+    height: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bienvenida {
+ 	background-image: url('../img/bienvenida_fondo.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 640px;
+    height: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.template {
+ 	background-image: url('../img/background.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 640px;
+    height: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.template_content {
+ 	background-image: url('../img/fondo_content.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 789px;
+    width: auto; 
+    text-align: center;
+    vertical-align: middle;
+}
+
+.template_boton {
+ 	background-image: url('../img/boton_activo.png');
+ 	display: inline-block;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 82px;
+    width: 320px; 
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+.template_botones {
+ 	background-image: url('../img/fondo_botones.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 171px;
+    width: auto; 
+}
+
+
+.template_centercontent {
+    margin-left: auto;
+    margin-right: auto;
+    width: auto; 
+}
+
+.bordery {
+	border-color: #FFFF00;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.template_topnav {
+ 	background-image: url('../img/topnav1.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 108px;
+    width: auto; 
+}
+
+.boton_normal {
+ 	position: absolute;
+    top: 80%;
+}
+
+.botones_welcome {
+ 	position: absolute;
+    top: 60%;
+    right:25%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+}
+
+.botones_bienvenida {
+    width: inherit;
+    margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+}
+
+.relleno_bienvenida {
+	height: 75%
+}
+
+.boton_ninios {
+ 	position: absolute;
+    top: 80%;
+    left: 60%;
+}
+
+.texto_boton {
+	font-size: larger;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.texto {
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.texto_botonazul {
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
