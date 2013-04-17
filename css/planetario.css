@@ -1,7 +1,7 @@
 .welcome {
  	background-image: url('../img/welcome_fondo.png');
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover cover;
     display: block;
     width: 590px;
     height: 960px;
